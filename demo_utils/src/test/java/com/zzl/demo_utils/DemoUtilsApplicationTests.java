@@ -1,13 +1,13 @@
-package com.zzl.utils;
+package com.zzl.demo_utils;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UtilsApplicationTests {
+class DemoUtilsApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
